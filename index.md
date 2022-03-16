@@ -1,1 +1,6 @@
-# hello
+# MEME
+
+R:code
+
+# Information:
+
