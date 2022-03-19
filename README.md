@@ -14,4 +14,4 @@ The purose of this stats220 repository is to showcase the meme I made for my fir
 * Labs 
 * Ed Discussion 
 
-aided me in creating the meme, animated GIF, and this repository. 
+aided me in creating the meme and this repository. 
