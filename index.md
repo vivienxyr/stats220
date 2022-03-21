@@ -6,9 +6,9 @@ For our first assignment in my [Statistics220](https://courseoutline.auckland.ac
 *My inspiration for my meme incudes:*
 
 <!--- unordered lists --->
-* My unability to pick **one meme** format 
-* My wish to include all **three** formats in the meme
-* The challenge to find the original image of each meme 
+* My inability to decide on **one meme** format 
+* The ironic humor that results from including all **three** formats in the meme
+* Overcoming the challenge to find the original image from each meme 
 
 Although there were certainly many learning curves in the process of creating this meme, I am proud to present the finished product.
 
