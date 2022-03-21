@@ -1,5 +1,5 @@
 # Stats220
-## [Repository website](https://vivienxyr.github.io/stats220/)
+## [Repository website](https://github.com/vivienxyr/stats220)
 
 ### Purpose:
 
